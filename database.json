@@ -3,10 +3,18 @@
     "https://github.com/digitalsoldier4/clapdtrap.git": [
       "https://github.com/digitalsoldier4/clapdtrap.git",
       "1636760381346"
+    ],
+    "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
+      "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
+      "1636760656534"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/digitalsoldier4/IndMotorCadGenerator.git:IndMotor.groovy": [
+      "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
+      "IndMotor.groovy"
+    ],
     "https://github.com/digitalsoldier4/clapdtrap.git:Claptrap..c": [
       "https://github.com/digitalsoldier4/clapdtrap.git",
       "Claptrap..c"
